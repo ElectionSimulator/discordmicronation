@@ -18,4 +18,4 @@ How to Join
 
 **or**
 
-4.Contact PolishAstronaut to create your own nation
+4.Contact PolishAstronaut to create your own country [here is more on how to create a country](http://electionsimulator.github.io/discordmicronation/create/)
