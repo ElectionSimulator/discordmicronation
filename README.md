@@ -1,3 +1,4 @@
+<head> <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"></head>
 # Discord Micronation
 Discord Micronation is a project for people to build micronations on Discord.
 
