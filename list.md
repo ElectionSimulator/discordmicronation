@@ -1,7 +1,7 @@
 List of Currently Active Micronations
 =====================================
 
-We currently have 5 micronation, listed below:
+We currently have 5 micronations, listed below:
 
 1.Trilangle
 
